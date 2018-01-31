@@ -5,6 +5,7 @@ set ai cin
 set cino=(s,:0,g0
 set ignorecase smartcase incsearch
 set completeopt=longest,menu,preview
+set tabpagemax=100
 set wildmode=longest,list,full
 set wildmenu
 au FileType javascript setlocal sw=2
