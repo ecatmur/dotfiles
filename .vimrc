@@ -11,3 +11,4 @@ set wildmenu
 au FileType javascript setlocal sw=2
 au FileType make setlocal noet
 au BufNewFile,BufRead *.md setlocal filetype=markdown
+au BufNewFile,BufRead *.toml setf dosini
