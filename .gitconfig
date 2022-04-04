@@ -1,0 +1,5 @@
+[core]
+	excludesfile = /home/edward.catmur/.gitignore_global
+[user]
+	name = Ed Catmur
+	email = edward.catmur@mavensecurities.com

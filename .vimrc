@@ -1,4 +1,4 @@
-execute pathogen#infect()
+"execute pathogen#infect()
 syntax on
 set sw=4 ts=8 et
 set matchpairs+=<:>
