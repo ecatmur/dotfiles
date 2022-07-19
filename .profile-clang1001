@@ -1,4 +1,0 @@
-export DOCKER_IMAGE=fedora-clang10
-export PATH=$HOME/docker/bin:$PATH
-export CC=$HOME/docker/bin/clang
-export CXX=$HOME/docker/bin/clang++

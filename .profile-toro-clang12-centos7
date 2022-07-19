@@ -1,2 +1,0 @@
-export DOCKER_IMAGE=registry.mavensecurities.com/toro/toro-clang12-centos7
-export PATH=$HOME/docker/bin:$PATH

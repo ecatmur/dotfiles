@@ -1,9 +1,11 @@
 "execute pathogen#infect()
+let c_no_curly_error=1
 syntax on
+filetype indent on
 set sw=4 ts=8 et
 set matchpairs+=<:>
 set list listchars=tab:»·,trail:·
-set ai cin
+"set ai cin
 set cino=(s,:0,g0
 set completeopt=longest,menu,preview
 set formatoptions+=cro

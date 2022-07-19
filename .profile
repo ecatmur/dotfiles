@@ -1,1 +1,1 @@
-PATH=$HOME/bin:$HOME/script:$HOME/docker/bin:$PATH
+PATH=$HOME/bin:$HOME/.local/bin:$HOME/script:$PATH
