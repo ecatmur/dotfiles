@@ -1,4 +1,4 @@
-set guifont=Cascadia\ Code\ Light\ 9
+set guifont=Cascadia\ Code\ Light\ 11
 set columns=120 lines=48
 hi SpecialKey guifg=LightBlue
 hi DiffChange guibg=LightYellow
