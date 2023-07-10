@@ -1,4 +1,0 @@
-. ~/.profile
-export toro_image=gcc11-centos7
-export DOCKER_IMAGE=registry.mavensecurities.com/toro/toro-$toro_image
-export PATH=$HOME/docker/bin:$PATH
