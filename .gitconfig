@@ -10,3 +10,5 @@
 	smudge = git-lfs smudge -- %f
 [credential]
 	helper = store
+[merge]
+	tool = gvimdiff

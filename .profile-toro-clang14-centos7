@@ -1,2 +1,4 @@
-export DOCKER_IMAGE=registry.mavensecurities.com/toro/toro-clang14-centos7
+. ~/.profile
+export toro_image=clang14-centos7
+export DOCKER_IMAGE=registry.mavensecurities.com/toro/toro-$toro_image
 export PATH=$HOME/docker/bin:$PATH
